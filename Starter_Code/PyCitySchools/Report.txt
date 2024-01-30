@@ -1,0 +1,6 @@
+
+  Report on City schools
+ 
+Spending summary table shows that the overall performance decreases with the increase in budget.
+Size summary table shows relationship between the size and the performance of the students. It shows shools with smaller group of students tend to do better than the one's with larger groups.
+Finally, summary table showcases that Charter schools tend to be better than the distric schools.
